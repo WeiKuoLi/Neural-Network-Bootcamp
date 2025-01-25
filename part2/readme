@@ -1,0 +1,8 @@
+Areas that coders with scientific backgrounds usually struggle with:
+
+* system design:
+	high level design of a software system, including the architecture, components, and interfaces
+* object oriented design/programming:
+	designing and implementing software systems using object-oriented programming principles
+* unitest testing CI/CD
+	testing software systems using unit testing and continuous integration/continuous deployment (CI/CD) practices
